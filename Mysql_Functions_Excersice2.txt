@@ -1,0 +1,28 @@
+
+Consider the following table called “Customer” to write SQL queries for below exercises. 
+Before working on exercises create below table and insert records into ‘Customer’ table.
+
+Table:Customer
+
+Cust_Id	Firstname	Lastname	City
+c101	Naveen		Yadav		Hyderabad
+c102	Pavan		Kumar		Pune
+c101	Sarath		Moore		Pune
+c104	Pavani		Reddy		Hyderabad
+c103	Bhavani		Goud		Bangalore
+c104	Rajesh		Varma		Pune
+c101	Sumaja		Naidu		Bangalore
+c105	Mahesh		babu		Bangalore
+c106	Kavitha		Reddy		Hyderabad
+
+Exercise 1:
+Write a SQL query to display Full_name (Firstname+ Lastname) in uppercase from the customer table.
+
+Exercise 2:
+Write a SQL query to display Firstname along with number of characters in Firstname of the all the customers from the customer table.
+
+Exercise 3:
+Write a SQL query to display first 3 characters from Firstname in uppercase along with the number of characters in the firstname.
+
+Exercise 4:
+Write a SQL query to concatenate firstname and first character from last name from the customer table.
